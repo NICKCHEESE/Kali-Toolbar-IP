@@ -1,5 +1,6 @@
-# Kali-Toolbar-IP
-My solution to adding IP addresses to Kali Linux toolbar (xfce) for maximum convenience 
+# Kali Toolbar IP
+
+My solution to adding IP addresses to Kali Linux toolbar (xfce) for maximum convenience
 
 This is especially useful for CTF / Pentesting websites like [tryhackme.com](tryhackme.com) & [hackthebox.eu](hackthebox.eu)
 
@@ -11,11 +12,13 @@ This is especially useful for CTF / Pentesting websites like [tryhackme.com](try
 
 *Offline:*
 
-![](https://imgur.com/hJBI4n3.jpg)
+![Offline](https://imgur.com/hJBI4n3.jpg)
 
-*Online:*
+*Online*:
 
-![](https://imgur.com/JoTf2AL.jpg)
+![Online](https://imgur.com/JoTf2AL.jpg)
+
+
 
 **Installation/Setup:**
 
@@ -35,7 +38,7 @@ Add the Generic Monitor to your bar
 
 Set the Generic Monitor to run the commands. Here's mine:
 
-- ![](https://imgur.com/kyTwiyj.jpg)
+- ![Settings](https://imgur.com/kyTwiyj.jpg)
 
 Set the "Period(s)" to whatever you like. I have mine set to run every 30 seconds.
 
@@ -53,5 +56,5 @@ Profit
 
 Make it pretty by adding Separators and Network Monitors
 
-- ![](https://imgur.com/36Os04J.jpg)
+- ![Pretty](https://imgur.com/36Os04J.jpg)
 
