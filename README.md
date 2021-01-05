@@ -22,6 +22,8 @@ This is especially useful for CTF / Pentesting websites like [tryhackme.com](try
 
 **Installation/Setup:**
 
+*Note: All file paths need to be Absolute file paths (/path/to/file.sh) not relative paths (~/file.sh)*
+
 Make sure the Generic Monitor is installed
 
 - *sudo apt install xfce4-genmon-plugin*
