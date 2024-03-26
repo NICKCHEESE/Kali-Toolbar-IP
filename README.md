@@ -26,13 +26,13 @@ This is especially useful for CTF / Pentesting websites like [tryhackme.com](try
 
 Make sure the Generic Monitor is installed
 
-- *sudo apt install xfce4-genmon-plugin*
+`sudo apt install xfce4-genmon-plugin`
 
-Copy the .sh files to a location of your choosing. I just put mine in a /opt/BarIP/ folder
+Copy the *.sh* files to a location of your choosing. I just put mine in `/opt/BarIP/`
 
-Make sure the files are executable 
+Make sure the *.sh* files are executable 
 
-- *chmod +x /folder/containing/.shFiles*
+`chmod +x /folder/containing/.sh` 
 
 Add the Generic Monitor to your bar
 
@@ -40,7 +40,7 @@ Add the Generic Monitor to your bar
 
 Set the Generic Monitor to run the commands. Here's mine:
 
-- ![Settings](https://imgur.com/kyTwiyj.jpg)
+![Settings](https://imgur.com/kyTwiyj.jpg)
 
 Set the "Period(s)" to whatever you like. I have mine set to run every 30 seconds.
 
@@ -58,5 +58,5 @@ Profit
 
 Make it pretty by adding Separators and Network Monitors
 
-- ![Pretty](https://imgur.com/36Os04J.jpg)
+![Pretty](https://imgur.com/36Os04J.jpg)
 
